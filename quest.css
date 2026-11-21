@@ -1,0 +1,203 @@
+.header{
+
+    display: flex;
+    justify-content: space-around;
+}
+ 
+ nav ul li{
+    list-style: none;
+}
+
+ nav ul li a{
+    text-decoration: none;
+    
+    
+}
+.navlinks{
+    margin-top: 20px;
+    display: flex;
+    gap: 30px;
+    font-weight:bold;
+
+}
+
+.aside{
+display: flex;
+align-items: center;
+gap: 150px;
+
+}
+
+.asidecontent{
+ margin-left: 230px;
+ margin-top: 50px;
+ 
+}
+.asidecontent h1 {
+color: darkblue;
+}
+
+.asidecontent p{
+    color: blue;
+}
+
+#asideimage{
+    margin-top: 50px;
+    
+}
+
+aside  div img{
+
+    border-top-left-radius: 100px;
+    border-top-right-radius: 95px;
+    border-bottom-left-radius: 95px;
+}
+
+#asidebutton1{
+    padding: 13px;
+    color: azure;
+    background-color:darkblue;
+    border-radius: 20px;
+
+}
+#asidebutton2{
+    padding: 15px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(204, 219,224);
+}
+
+.sameimages{
+   
+    display: flex;
+    margin: 4px;
+    
+}
+#sameimage1{
+    border: 1px solid;
+    border: none;
+
+}
+#sameimage2{
+    border: 1px solid;
+    border: none;
+}
+#sameimage3{
+    border: 1px solid;
+    border: none;
+    
+
+}
+aside article img{
+    border-top-left-radius: 20px;
+    
+}
+ 
+#beside{
+
+    display: flex;
+    align-items: center;
+}
+#beside img{
+
+    border-radius: 20px;
+}
+#buttonid{
+  
+    text-align: center;
+     
+    
+}
+#button{
+    
+    color: aliceblue;
+    background-color: darkblue;
+    padding: 12px;
+    border-radius: 20px;
+    
+    }
+    .footer{
+
+       border: 1px solid;
+       background-color: darkblue;
+       margin-top: 50px;
+       color: aliceblue;
+    }
+    footer img{
+
+        border-radius: 100%;
+
+    }
+
+    #footerheading{
+
+        text-align: center;
+        color: aliceblue;
+        margin-top: 70px;
+        
+    }
+
+    .footerborder1{
+        display: flex;
+        justify-content: center;
+        gap: 120px;
+        margin-top: 135px;
+        margin-bottom: 140px;
+
+    }
+
+   
+        
+    
+    
+    #imagecenter{
+       
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+
+        
+        
+    }
+    #footerh2{
+        border: 1px solid;
+        border: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+
+    }
+    #footerp{
+        border: 1px solid;
+        border: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+
+    
+
+
+   
+        
+    
+        
+    
+        
+            
+            
+        
+        
+        
+        
+        
+    
+
+
+
+    
+    
+    
